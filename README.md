@@ -11,11 +11,11 @@ a file system, read files, and search for data.
 2. Navigate your terminal to the `block02` folder.
 3. Download the files and folders you'll need for this workshop by running this command:
    ```
-   git clone https://github.com/FullstackAcademy/Unit1.HackTheMainframe.git
+   git clone https://github.com/FullstackAcademy/hack-the-mainframe.git
    ```
-4. `cd Unit1.HackTheMainframe` to navigate into the folder that you just downloaded.
+4. `cd hack-the-mainframe` to navigate into the folder that you just downloaded.
 5. Run `pwd` to verify that you are in the correct directory.
-   The output should end with `/block02/Unit1.HackTheMainframe`.
+   The output should end with `/block02/hack-the-mainframe`.
 
 ## Find the restaurant
 
