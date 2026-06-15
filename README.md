@@ -1,6 +1,8 @@
 ## important links:
 
-[source repo](https://github.com/FullstackAcademy/hack-the-mainframe.git) \
+[source repo](https://github.com/FullstackAcademy/hack-the-mainframe.git)
+
+---
 
 # Hack the Mainframe
 
